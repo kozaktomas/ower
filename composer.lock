@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "hash": "561241de64a04b0796f31551c5c6e5fc",
+    "hash": "a6ec7a5406037b9f61ae5d76df4920b1",
     "packages": [
         {
             "name": "nette/caching",
@@ -176,6 +176,8 @@
     "stability-flags": [],
     "prefer-stable": false,
     "prefer-lowest": false,
-    "platform": [],
+    "platform": {
+        "php": ">=5.3.0"
+    },
     "platform-dev": []
 }
