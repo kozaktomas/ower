@@ -1,0 +1,16 @@
+{
+  "name": "pogodi/ower",
+  "description": "Library for API calls",
+  "minimum-stability": "stable",
+  "license": "GPL-3.0",
+  "authors": [
+    {
+      "name": "Tomas Kozak",
+      "email": "kozak@talko.cz"
+    }
+  ],
+  "require": {
+    "nette/utils": "~2.3.0",
+    "nette/caching": "~2.3.0"
+  }
+}
